@@ -1,2 +1,2 @@
 Hi!
-This is second file in deveops assignment
+This is second file in directory 2
